@@ -1,2 +1,0 @@
-# HealthHack
-Health Hack
