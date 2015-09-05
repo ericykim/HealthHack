@@ -17,7 +17,7 @@ var app = angular.module('starter', ['ionic'])
     }
   });
 })
-
+/*
 app.config(function($stateProvider, $urlRouterProvider) {
   $urlRouterProvider.otherwise('/')
 
@@ -26,3 +26,4 @@ app.config(function($stateProvider, $urlRouterProvider) {
     template: 'home.html'
   })
 })
+*/
