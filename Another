@@ -1,0 +1,47 @@
+mcdonladsCalories = []
+
+
+
+
+
+
+
+function getCalories(t, callback) {
+	var fs = require('fs'); 
+	fs.readFile('Mcdonalds.json', 'utf8', function(err, data) { 
+
+		if (err) {
+			console.log('Error:' + err);
+			return;
+		}
+
+		var json = JSON.parse(data);
+		callback(json.collection1[t].Calories);	
+	}); 
+}
+
+getCalories(0, function(Calories) {
+
+	console.log(Calories);
+});
+
+
+/*var calorieCloseEnough = []
+
+var n
+
+
+for(n = 0; n < 115; n += 1 )  {
+	var x = Math.abs(500 - getCalories(n)); 
+	
+		if (x < 20) {
+			if 	(x > -1) {
+				calorieCloseEnough.push(n);
+			}
+
+	}
+
+}; 
+
+console.log(calorieCloseEnough); */
+

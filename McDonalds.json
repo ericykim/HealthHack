@@ -1,0 +1,1269 @@
+{
+  "collection1": [
+    {
+      "Name": {
+        "text": "1% Low Fat Milk Jug",
+        "href": "javascript:void(0);"
+      },
+      "Calories": "100",
+      "Total Fat": "2.5",
+      "Carbohydrates": "12",
+      "Protein": "8",
+      "Sodium": "125"
+    },
+    {
+      "Name": {
+        "text": "Apple Slices",
+        "href": "javascript:void(0);"
+      },
+      "Calories": "15",
+      "Total Fat": "0",
+      "Carbohydrates": "4",
+      "Protein": "0",
+      "Sodium": "0"
+    },
+    {
+      "Name": {
+        "text": "Artisan Grilled Chicken Sandwich",
+        "href": "javascript:void(0);"
+      },
+      "Calories": "360",
+      "Total Fat": "6",
+      "Carbohydrates": "43",
+      "Protein": "33",
+      "Sodium": "960"
+    },
+    {
+      "Name": {
+        "text": "Bacon Clubhouse Burger",
+        "href": "javascript:void(0);"
+      },
+      "Calories": "740",
+      "Total Fat": "41",
+      "Carbohydrates": "51",
+      "Protein": "40",
+      "Sodium": "1480"
+    },
+    {
+      "Name": {
+        "text": "Bacon McDouble",
+        "href": "javascript:void(0);"
+      },
+      "Calories": "460",
+      "Total Fat": "23",
+      "Carbohydrates": "34",
+      "Protein": "28",
+      "Sodium": "1120"
+    },
+    {
+      "Name": {
+        "text": "Bacon, Egg & Cheese Bagel",
+        "href": "javascript:void(0);"
+      },
+      "Calories": "590",
+      "Total Fat": "29",
+      "Carbohydrates": "56",
+      "Protein": "27",
+      "Sodium": "1340"
+    },
+    {
+      "Name": {
+        "text": "Bacon, Egg & Cheese Biscuit",
+        "href": "javascript:void(0);"
+      },
+      "Calories": "460",
+      "Total Fat": "26",
+      "Carbohydrates": "38",
+      "Protein": "19",
+      "Sodium": "1300"
+    },
+    {
+      "Name": {
+        "text": "Bacon, Egg & Cheese McGriddles",
+        "href": "javascript:void(0);"
+      },
+      "Calories": "460",
+      "Total Fat": "21",
+      "Carbohydrates": "48",
+      "Protein": "19",
+      "Sodium": "1250"
+    },
+    {
+      "Name": {
+        "text": "Baked Apple Pie",
+        "href": "javascript:void(0);"
+      },
+      "Calories": "250",
+      "Total Fat": "13",
+      "Carbohydrates": "32",
+      "Protein": "2",
+      "Sodium": "170"
+    },
+    {
+      "Name": {
+        "text": "BBQ Ranch Burger",
+        "href": "javascript:void(0);"
+      },
+      "Calories": "350",
+      "Total Fat": "15",
+      "Carbohydrates": "37",
+      "Protein": "15",
+      "Sodium": "670"
+    },
+    {
+      "Name": {
+        "text": "Big Breakfast",
+        "href": "javascript:void(0);"
+      },
+      "Calories": "740",
+      "Total Fat": "48",
+      "Carbohydrates": "51",
+      "Protein": "28",
+      "Sodium": "1560"
+    },
+    {
+      "Name": {
+        "text": "Big Breakfast with Hotcakes",
+        "href": "javascript:void(0);"
+      },
+      "Calories": "1090",
+      "Total Fat": "56",
+      "Carbohydrates": "111",
+      "Protein": "36",
+      "Sodium": "2150"
+    },
+    {
+      "Name": {
+        "text": "Big Mac",
+        "href": "javascript:void(0);"
+      },
+      "Calories": "540",
+      "Total Fat": "28",
+      "Carbohydrates": "47",
+      "Protein": "25",
+      "Sodium": "970"
+    },
+    {
+      "Name": {
+        "text": "Cheeseburger",
+        "href": "javascript:void(0);"
+      },
+      "Calories": "300",
+      "Total Fat": "12",
+      "Carbohydrates": "33",
+      "Protein": "15",
+      "Sodium": "680"
+    },
+    {
+      "Name": {
+        "text": "Chicken McNuggets",
+        "href": "javascript:void(0);"
+      },
+      "Calories": "190",
+      "Total Fat": "12",
+      "Carbohydrates": "12",
+      "Protein": "9",
+      "Sodium": "360"
+    },
+    {
+      "Name": {
+        "text": "Cinnamon Melts",
+        "href": "javascript:void(0);"
+      },
+      "Calories": "460",
+      "Total Fat": "19",
+      "Carbohydrates": "66",
+      "Protein": "6",
+      "Sodium": "370"
+    },
+    {
+      "Name": {
+        "text": "Coca-Cola®",
+        "href": "javascript:void(0);"
+      },
+      "Calories": "140",
+      "Total Fat": "0",
+      "Carbohydrates": "39",
+      "Protein": "0",
+      "Sodium": "0"
+    },
+    {
+      "Name": {
+        "text": "Daily Double",
+        "href": "javascript:void(0);"
+      },
+      "Calories": "440",
+      "Total Fat": "24",
+      "Carbohydrates": "34",
+      "Protein": "22",
+      "Sodium": "770"
+    },
+    {
+      "Name": {
+        "text": "Dasani® Water",
+        "href": "javascript:void(0);"
+      },
+      "Calories": "0",
+      "Total Fat": "0",
+      "Carbohydrates": "0",
+      "Protein": "0",
+      "Sodium": "0"
+    },
+    {
+      "Name": {
+        "text": "Diet Coke®",
+        "href": "javascript:void(0);"
+      },
+      "Calories": "0",
+      "Total Fat": "0",
+      "Carbohydrates": "0",
+      "Protein": "0",
+      "Sodium": "10"
+    },
+    {
+      "Name": {
+        "text": "Diet Dr Pepper®",
+        "href": "javascript:void(0);"
+      },
+      "Calories": "0",
+      "Total Fat": "0",
+      "Carbohydrates": "0",
+      "Protein": "2",
+      "Sodium": "70"
+    },
+    {
+      "Name": {
+        "text": "Double Cheeseburger",
+        "href": "javascript:void(0);"
+      },
+      "Calories": "440",
+      "Total Fat": "22",
+      "Carbohydrates": "35",
+      "Protein": "25",
+      "Sodium": "1050"
+    },
+    {
+      "Name": {
+        "text": "Double Quarter Pounder with Cheese",
+        "href": "javascript:void(0);"
+      },
+      "Calories": "780",
+      "Total Fat": "45",
+      "Carbohydrates": "43",
+      "Protein": "50",
+      "Sodium": "1310"
+    },
+    {
+      "Name": {
+        "text": "Dr Pepper®",
+        "href": "javascript:void(0);"
+      },
+      "Calories": "140",
+      "Total Fat": "0",
+      "Carbohydrates": "37",
+      "Protein": "0",
+      "Sodium": "45"
+    },
+    {
+      "Name": {
+        "text": "Egg McMuffin",
+        "href": "javascript:void(0);"
+      },
+      "Calories": "300",
+      "Total Fat": "13",
+      "Carbohydrates": "31",
+      "Protein": "17",
+      "Sodium": "750"
+    },
+    {
+      "Name": {
+        "text": "Egg White Delight McMuffin",
+        "href": "javascript:void(0);"
+      },
+      "Calories": "250",
+      "Total Fat": "8",
+      "Carbohydrates": "30",
+      "Protein": "18",
+      "Sodium": "770"
+    },
+    {
+      "Name": {
+        "text": "Fat Free Chocolate Milk Jug",
+        "href": "javascript:void(0);"
+      },
+      "Calories": "130",
+      "Total Fat": "0",
+      "Carbohydrates": "23",
+      "Protein": "9",
+      "Sodium": "135"
+    },
+    {
+      "Name": {
+        "text": "Filet-O-Fish",
+        "href": "javascript:void(0);"
+      },
+      "Calories": "390",
+      "Total Fat": "19",
+      "Carbohydrates": "39",
+      "Protein": "15",
+      "Sodium": "590"
+    },
+    {
+      "Name": {
+        "text": "Fruit & Maple Oatmeal",
+        "href": "javascript:void(0);"
+      },
+      "Calories": "290",
+      "Total Fat": "4",
+      "Carbohydrates": "58",
+      "Protein": "5",
+      "Sodium": "160"
+    },
+    {
+      "Name": {
+        "text": "Fruit 'N Yogurt Parfait",
+        "href": "javascript:void(0);"
+      },
+      "Calories": "150",
+      "Total Fat": "2",
+      "Carbohydrates": "30",
+      "Protein": "4",
+      "Sodium": "80"
+    },
+    {
+      "Name": {
+        "text": "Grilled Onion Cheddar Burger",
+        "href": "javascript:void(0);"
+      },
+      "Calories": "310",
+      "Total Fat": "13",
+      "Carbohydrates": "32",
+      "Protein": "15",
+      "Sodium": "640"
+    },
+    {
+      "Name": {
+        "text": "Hamburger",
+        "href": "javascript:void(0);"
+      },
+      "Calories": "250",
+      "Total Fat": "8",
+      "Carbohydrates": "32",
+      "Protein": "12",
+      "Sodium": "490"
+    },
+    {
+      "Name": {
+        "text": "Hash Browns",
+        "href": "javascript:void(0);"
+      },
+      "Calories": "150",
+      "Total Fat": "9",
+      "Carbohydrates": "15",
+      "Protein": "1",
+      "Sodium": "310"
+    },
+    {
+      "Name": {
+        "text": "Hi-C® Orange Lavaburst",
+        "href": "javascript:void(0);"
+      },
+      "Calories": "160",
+      "Total Fat": "0",
+      "Carbohydrates": "43",
+      "Protein": "0",
+      "Sodium": "0"
+    },
+    {
+      "Name": {
+        "text": "Hot Caramel Sundae",
+        "href": "javascript:void(0);"
+      },
+      "Calories": "340",
+      "Total Fat": "8",
+      "Carbohydrates": "60",
+      "Protein": "7",
+      "Sodium": "150"
+    },
+    {
+      "Name": {
+        "text": "Hot Fudge Sundae",
+        "href": "javascript:void(0);"
+      },
+      "Calories": "330",
+      "Total Fat": "9",
+      "Carbohydrates": "53",
+      "Protein": "8",
+      "Sodium": "170"
+    },
+    {
+      "Name": {
+        "text": "Hotcakes",
+        "href": "javascript:void(0);"
+      },
+      "Calories": "350",
+      "Total Fat": "9",
+      "Carbohydrates": "60",
+      "Protein": "8",
+      "Sodium": "590"
+    },
+    {
+      "Name": {
+        "text": "Hotcakes and Sausage",
+        "href": "javascript:void(0);"
+      },
+      "Calories": "520",
+      "Total Fat": "24",
+      "Carbohydrates": "61",
+      "Protein": "15",
+      "Sodium": "930"
+    },
+    {
+      "Name": {
+        "text": "Iced Tea",
+        "href": "javascript:void(0);"
+      },
+      "Calories": "0",
+      "Total Fat": "0",
+      "Carbohydrates": "0",
+      "Protein": "0",
+      "Sodium": "10"
+    },
+    {
+      "Name": {
+        "text": "Kiddie Cone",
+        "href": "javascript:void(0);"
+      },
+      "Calories": "45",
+      "Total Fat": "1.5",
+      "Carbohydrates": "7",
+      "Protein": "1",
+      "Sodium": "20"
+    },
+    {
+      "Name": {
+        "text": "McCafé Blueberry Pomegranate Smoothie",
+        "href": "javascript:void(0);"
+      },
+      "Calories": "220",
+      "Total Fat": "0.5",
+      "Carbohydrates": "50",
+      "Protein": "2",
+      "Sodium": "40"
+    },
+    {
+      "Name": {
+        "text": "McCafé Caramel Mocha",
+        "href": "javascript:void(0);"
+      },
+      "Calories": "320",
+      "Total Fat": "11",
+      "Carbohydrates": "45",
+      "Protein": "10",
+      "Sodium": "170"
+    },
+    {
+      "Name": {
+        "text": "McCafé Chocolate Shake",
+        "href": "javascript:void(0);"
+      },
+      "Calories": "560",
+      "Total Fat": "16",
+      "Carbohydrates": "91",
+      "Protein": "12",
+      "Sodium": "240"
+    },
+    {
+      "Name": {
+        "text": "McCafé Classic Lemonade",
+        "href": "javascript:void(0);"
+      },
+      "Calories": "100",
+      "Total Fat": "0",
+      "Carbohydrates": "25",
+      "Protein": "0",
+      "Sodium": "10"
+    },
+    {
+      "Name": {
+        "text": "McCafé Coffee",
+        "href": "javascript:void(0);"
+      },
+      "Calories": "0",
+      "Total Fat": "0",
+      "Carbohydrates": "0",
+      "Protein": "0",
+      "Sodium": "0"
+    },
+    {
+      "Name": {
+        "text": "McCafé Frappé Caramel",
+        "href": "javascript:void(0);"
+      },
+      "Calories": "440",
+      "Total Fat": "18",
+      "Carbohydrates": "63",
+      "Protein": "7",
+      "Sodium": "125"
+    },
+    {
+      "Name": {
+        "text": "McCafé Frappé Chocolate Chip",
+        "href": "javascript:void(0);"
+      },
+      "Calories": "520",
+      "Total Fat": "22",
+      "Carbohydrates": "75",
+      "Protein": "8",
+      "Sodium": "130"
+    },
+    {
+      "Name": {
+        "text": "McCafé Frappé Mocha",
+        "href": "javascript:void(0);"
+      },
+      "Calories": "440",
+      "Total Fat": "18",
+      "Carbohydrates": "64",
+      "Protein": "7",
+      "Sodium": "125"
+    },
+    {
+      "Name": {
+        "text": "McCafé Frozen Classic Lemonade",
+        "href": "javascript:void(0);"
+      },
+      "Calories": "160",
+      "Total Fat": "0",
+      "Carbohydrates": "40",
+      "Protein": "0",
+      "Sodium": "10"
+    },
+    {
+      "Name": {
+        "text": "McCafé Frozen Strawberry Lemonade",
+        "href": "javascript:void(0);"
+      },
+      "Calories": "180",
+      "Total Fat": "0",
+      "Carbohydrates": "48",
+      "Protein": "1",
+      "Sodium": "10"
+    },
+    {
+      "Name": {
+        "text": "McCafé Hot Chocolate",
+        "href": "javascript:void(0);"
+      },
+      "Calories": "360",
+      "Total Fat": "13",
+      "Carbohydrates": "50",
+      "Protein": "11",
+      "Sodium": "180"
+    },
+    {
+      "Name": {
+        "text": "McCafé Iced Caramel Mocha",
+        "href": "javascript:void(0);"
+      },
+      "Calories": "270",
+      "Total Fat": "11",
+      "Carbohydrates": "37",
+      "Protein": "8",
+      "Sodium": "140"
+    },
+    {
+      "Name": {
+        "text": "McCafé Iced Coffee",
+        "href": "javascript:void(0);"
+      },
+      "Calories": "140",
+      "Total Fat": "4.5",
+      "Carbohydrates": "23",
+      "Protein": "1",
+      "Sodium": "35"
+    },
+    {
+      "Name": {
+        "text": "McCafé Iced Mocha",
+        "href": "javascript:void(0);"
+      },
+      "Calories": "290",
+      "Total Fat": "11",
+      "Carbohydrates": "40",
+      "Protein": "8",
+      "Sodium": "125"
+    },
+    {
+      "Name": {
+        "text": "McCafé Latte",
+        "href": "javascript:void(0);"
+      },
+      "Calories": "170",
+      "Total Fat": "9",
+      "Carbohydrates": "15",
+      "Protein": "9",
+      "Sodium": "115"
+    },
+    {
+      "Name": {
+        "text": "McCafé Mango Pineapple Smoothie",
+        "href": "javascript:void(0);"
+      },
+      "Calories": "210",
+      "Total Fat": "0.5",
+      "Carbohydrates": "50",
+      "Protein": "2",
+      "Sodium": "40"
+    },
+    {
+      "Name": {
+        "text": "McCafé Mocha",
+        "href": "javascript:void(0);"
+      },
+      "Calories": "340",
+      "Total Fat": "11",
+      "Carbohydrates": "49",
+      "Protein": "10",
+      "Sodium": "150"
+    },
+    {
+      "Name": {
+        "text": "McCafé Oreo Frappé",
+        "href": "javascript:void(0);"
+      },
+      "Calories": "540",
+      "Total Fat": "20",
+      "Carbohydrates": "82",
+      "Protein": "7",
+      "Sodium": "170"
+    },
+    {
+      "Name": {
+        "text": "McCafé Shamrock Shake",
+        "href": "javascript:void(0);"
+      },
+      "Calories": "530",
+      "Total Fat": "15",
+      "Carbohydrates": "86",
+      "Protein": "11",
+      "Sodium": "160"
+    },
+    {
+      "Name": {
+        "text": "McCafé Strawberry Banana Smoothie",
+        "href": "javascript:void(0);"
+      },
+      "Calories": "210",
+      "Total Fat": "0.5",
+      "Carbohydrates": "47",
+      "Protein": "3",
+      "Sodium": "50"
+    },
+    {
+      "Name": {
+        "text": "McCafé Strawberry Lemonade",
+        "href": "javascript:void(0);"
+      },
+      "Calories": "120",
+      "Total Fat": "0",
+      "Carbohydrates": "32",
+      "Protein": "1",
+      "Sodium": "10"
+    },
+    {
+      "Name": {
+        "text": "McCafé Strawberry Shake",
+        "href": "javascript:void(0);"
+      },
+      "Calories": "550",
+      "Total Fat": "16",
+      "Carbohydrates": "90",
+      "Protein": "12",
+      "Sodium": "160"
+    },
+    {
+      "Name": {
+        "text": "McCafé Vanilla Shake",
+        "href": "javascript:void(0);"
+      },
+      "Calories": "530",
+      "Total Fat": "15",
+      "Carbohydrates": "86",
+      "Protein": "11",
+      "Sodium": "160"
+    },
+    {
+      "Name": {
+        "text": "McCafé White Chocolate Mocha",
+        "href": "javascript:void(0);"
+      },
+      "Calories": "320",
+      "Total Fat": "11",
+      "Carbohydrates": "47",
+      "Protein": "11",
+      "Sodium": "160"
+    },
+    {
+      "Name": {
+        "text": "McCafé White Hot Chocolate",
+        "href": "javascript:void(0);"
+      },
+      "Calories": "350",
+      "Total Fat": "13",
+      "Carbohydrates": "48",
+      "Protein": "12",
+      "Sodium": "180"
+    },
+    {
+      "Name": {
+        "text": "McChicken",
+        "href": "javascript:void(0);"
+      },
+      "Calories": "370",
+      "Total Fat": "17",
+      "Carbohydrates": "40",
+      "Protein": "14",
+      "Sodium": "650"
+    },
+    {
+      "Name": {
+        "text": "McDouble",
+        "href": "javascript:void(0);"
+      },
+      "Calories": "390",
+      "Total Fat": "18",
+      "Carbohydrates": "34",
+      "Protein": "22",
+      "Sodium": "850"
+    },
+    {
+      "Name": {
+        "text": "McFlurry with M&M's®",
+        "href": "javascript:void(0);"
+      },
+      "Calories": "650",
+      "Total Fat": "23",
+      "Carbohydrates": "96",
+      "Protein": "13",
+      "Sodium": "180"
+    },
+    {
+      "Name": {
+        "text": "McFlurry with OREO® Cookies",
+        "href": "javascript:void(0);"
+      },
+      "Calories": "520",
+      "Total Fat": "17",
+      "Carbohydrates": "80",
+      "Protein": "12",
+      "Sodium": "260"
+    },
+    {
+      "Name": {
+        "text": "McRib",
+        "href": "javascript:void(0);"
+      },
+      "Calories": "500",
+      "Total Fat": "26",
+      "Carbohydrates": "44",
+      "Protein": "22",
+      "Sodium": "980"
+    },
+    {
+      "Name": {
+        "text": "Minute Maid® Apple Juice Box",
+        "href": "javascript:void(0);"
+      },
+      "Calories": "80",
+      "Total Fat": "0",
+      "Carbohydrates": "21",
+      "Protein": "0",
+      "Sodium": "15"
+    },
+    {
+      "Name": {
+        "text": "Minute Maid® Premium Orange Juice",
+        "href": "javascript:void(0);"
+      },
+      "Calories": "150",
+      "Total Fat": "0",
+      "Carbohydrates": "34",
+      "Protein": "2",
+      "Sodium": "0"
+    },
+    {
+      "Name": {
+        "text": "POWERade® Mountain Berry Blast",
+        "href": "javascript:void(0);"
+      },
+      "Calories": "80",
+      "Total Fat": "0",
+      "Carbohydrates": "21",
+      "Protein": "0",
+      "Sodium": "75"
+    },
+    {
+      "Name": {
+        "text": "Premium Asian Salad",
+        "href": "javascript:void(0);"
+      },
+      "Calories": "140",
+      "Total Fat": "7",
+      "Carbohydrates": "13",
+      "Protein": "7",
+      "Sodium": "20"
+    },
+    {
+      "Name": {
+        "text": "Premium Asian Salad with Buttermilk Crispy Chicken",
+        "href": "javascript:void(0);"
+      },
+      "Calories": "450",
+      "Total Fat": "24",
+      "Carbohydrates": "35",
+      "Protein": "27",
+      "Sodium": "640"
+    },
+    {
+      "Name": {
+        "text": "Premium Asian Salad with Grilled Chicken",
+        "href": "javascript:void(0);"
+      },
+      "Calories": "270",
+      "Total Fat": "9",
+      "Carbohydrates": "18",
+      "Protein": "32",
+      "Sodium": "760"
+    },
+    {
+      "Name": {
+        "text": "Premium Bacon Ranch Salad",
+        "href": "javascript:void(0);"
+      },
+      "Calories": "190",
+      "Total Fat": "12",
+      "Carbohydrates": "8",
+      "Protein": "14",
+      "Sodium": "530"
+    },
+    {
+      "Name": {
+        "text": "Premium Bacon Ranch Salad with Buttermilk Crispy Chicken",
+        "href": "javascript:void(0);"
+      },
+      "Calories": "490",
+      "Total Fat": "29",
+      "Carbohydrates": "26",
+      "Protein": "34",
+      "Sodium": "1000"
+    },
+    {
+      "Name": {
+        "text": "Premium Bacon Ranch Salad with Grilled Chicken",
+        "href": "javascript:void(0);"
+      },
+      "Calories": "310",
+      "Total Fat": "14",
+      "Carbohydrates": "9",
+      "Protein": "38",
+      "Sodium": "1120"
+    },
+    {
+      "Name": {
+        "text": "Premium Buttermilk Crispy Chicken Bacon Clubhouse Sandwich",
+        "href": "javascript:void(0);"
+      },
+      "Calories": "790",
+      "Total Fat": "40",
+      "Carbohydrates": "67",
+      "Protein": "40",
+      "Sodium": "1620"
+    },
+    {
+      "Name": {
+        "text": "Premium Buttermilk Crispy Chicken Deluxe Sandwich",
+        "href": "javascript:void(0);"
+      },
+      "Calories": "580",
+      "Total Fat": "24",
+      "Carbohydrates": "62",
+      "Protein": "29",
+      "Sodium": "900"
+    },
+    {
+      "Name": {
+        "text": "Premium Grilled Chicken Bacon Clubhouse Sandwich",
+        "href": "javascript:void(0);"
+      },
+      "Calories": "610",
+      "Total Fat": "26",
+      "Carbohydrates": "50",
+      "Protein": "45",
+      "Sodium": "1750"
+    },
+    {
+      "Name": {
+        "text": "Premium McWrap Chicken & Bacon (Buttermilk Crispy)",
+        "href": "javascript:void(0);"
+      },
+      "Calories": "690",
+      "Total Fat": "34",
+      "Carbohydrates": "58",
+      "Protein": "36",
+      "Sodium": "1450"
+    },
+    {
+      "Name": {
+        "text": "Premium McWrap Chicken & Bacon (Grilled)",
+        "href": "javascript:void(0);"
+      },
+      "Calories": "500",
+      "Total Fat": "19",
+      "Carbohydrates": "41",
+      "Protein": "41",
+      "Sodium": "1570"
+    },
+    {
+      "Name": {
+        "text": "Premium McWrap Chicken & Ranch (Buttermilk Crispy)",
+        "href": "javascript:void(0);"
+      },
+      "Calories": "660",
+      "Total Fat": "34",
+      "Carbohydrates": "59",
+      "Protein": "31",
+      "Sodium": "1250"
+    },
+    {
+      "Name": {
+        "text": "Premium McWrap Chicken & Ranch (Grilled)",
+        "href": "javascript:void(0);"
+      },
+      "Calories": "470",
+      "Total Fat": "19",
+      "Carbohydrates": "41",
+      "Protein": "35",
+      "Sodium": "1370"
+    },
+    {
+      "Name": {
+        "text": "Premium McWrap Sweet Chili Chicken (Buttermilk Crispy)",
+        "href": "javascript:void(0);"
+      },
+      "Calories": "590",
+      "Total Fat": "25",
+      "Carbohydrates": "64",
+      "Protein": "27",
+      "Sodium": "1160"
+    },
+    {
+      "Name": {
+        "text": "Premium McWrap Sweet Chili Chicken (Grilled)",
+        "href": "javascript:void(0);"
+      },
+      "Calories": "400",
+      "Total Fat": "10",
+      "Carbohydrates": "46",
+      "Protein": "31",
+      "Sodium": "1250"
+    },
+    {
+      "Name": {
+        "text": "Premium Southwest Salad",
+        "href": "javascript:void(0);"
+      },
+      "Calories": "160",
+      "Total Fat": "7",
+      "Carbohydrates": "18",
+      "Protein": "8",
+      "Sodium": "190"
+    },
+    {
+      "Name": {
+        "text": "Premium Southwest Salad with Buttermilk Crispy Chicken",
+        "href": "javascript:void(0);"
+      },
+      "Calories": "510",
+      "Total Fat": "26",
+      "Carbohydrates": "43",
+      "Protein": "28",
+      "Sodium": "790"
+    },
+    {
+      "Name": {
+        "text": "Premium Southwest Salad with Grilled Chicken",
+        "href": "javascript:void(0);"
+      },
+      "Calories": "330",
+      "Total Fat": "11",
+      "Carbohydrates": "26",
+      "Protein": "33",
+      "Sodium": "920"
+    },
+    {
+      "Name": {
+        "text": "Quarter Pounder with Cheese",
+        "href": "javascript:void(0);"
+      },
+      "Calories": "540",
+      "Total Fat": "28",
+      "Carbohydrates": "42",
+      "Protein": "31",
+      "Sodium": "1110"
+    },
+    {
+      "Name": {
+        "text": "Ranch Snack Wrap (Buttermilk Crispy)",
+        "href": "javascript:void(0);"
+      },
+      "Calories": "380",
+      "Total Fat": "21",
+      "Carbohydrates": "33",
+      "Protein": "16",
+      "Sodium": "760"
+    },
+    {
+      "Name": {
+        "text": "Ranch Snack Wrap (Grilled)",
+        "href": "javascript:void(0);"
+      },
+      "Calories": "290",
+      "Total Fat": "13",
+      "Carbohydrates": "25",
+      "Protein": "19",
+      "Sodium": "820"
+    },
+    {
+      "Name": {
+        "text": "Sausage Biscuit",
+        "href": "javascript:void(0);"
+      },
+      "Calories": "430",
+      "Total Fat": "27",
+      "Carbohydrates": "34",
+      "Protein": "11",
+      "Sodium": "1080"
+    },
+    {
+      "Name": {
+        "text": "Sausage Biscuit with Egg",
+        "href": "javascript:void(0);"
+      },
+      "Calories": "510",
+      "Total Fat": "33",
+      "Carbohydrates": "36",
+      "Protein": "18",
+      "Sodium": "1170"
+    },
+    {
+      "Name": {
+        "text": "Sausage Burrito",
+        "href": "javascript:void(0);"
+      },
+      "Calories": "300",
+      "Total Fat": "16",
+      "Carbohydrates": "26",
+      "Protein": "12",
+      "Sodium": "790"
+    },
+    {
+      "Name": {
+        "text": "Sausage McGriddles",
+        "href": "javascript:void(0);"
+      },
+      "Calories": "420",
+      "Total Fat": "22",
+      "Carbohydrates": "44",
+      "Protein": "11",
+      "Sodium": "1030"
+    },
+    {
+      "Name": {
+        "text": "Sausage McMuffin",
+        "href": "javascript:void(0);"
+      },
+      "Calories": "370",
+      "Total Fat": "23",
+      "Carbohydrates": "29",
+      "Protein": "14",
+      "Sodium": "780"
+    },
+    {
+      "Name": {
+        "text": "Sausage McMuffin with Egg",
+        "href": "javascript:void(0);"
+      },
+      "Calories": "450",
+      "Total Fat": "28",
+      "Carbohydrates": "30",
+      "Protein": "21",
+      "Sodium": "860"
+    },
+    {
+      "Name": {
+        "text": "Sausage, Egg & Cheese McGriddles",
+        "href": "javascript:void(0);"
+      },
+      "Calories": "550",
+      "Total Fat": "31",
+      "Carbohydrates": "48",
+      "Protein": "20",
+      "Sodium": "1320"
+    },
+    {
+      "Name": {
+        "text": "Side Salad",
+        "href": "javascript:void(0);"
+      },
+      "Calories": "15",
+      "Total Fat": "0",
+      "Carbohydrates": "3",
+      "Protein": "1",
+      "Sodium": "10"
+    },
+    {
+      "Name": {
+        "text": "Soft Baked Chocolate Chip Cookie",
+        "href": "javascript:void(0);"
+      },
+      "Calories": "160",
+      "Total Fat": "8",
+      "Carbohydrates": "21",
+      "Protein": "2",
+      "Sodium": "90"
+    },
+    {
+      "Name": {
+        "text": "Soft Baked Oatmeal Raisin Cookie",
+        "href": "javascript:void(0);"
+      },
+      "Calories": "150",
+      "Total Fat": "6",
+      "Carbohydrates": "22",
+      "Protein": "2",
+      "Sodium": "135"
+    },
+    {
+      "Name": {
+        "text": "Southern Style Chicken Biscuit",
+        "href": "javascript:void(0);"
+      },
+      "Calories": "410",
+      "Total Fat": "20",
+      "Carbohydrates": "41",
+      "Protein": "17",
+      "Sodium": "1180"
+    },
+    {
+      "Name": {
+        "text": "Sprite®",
+        "href": "javascript:void(0);"
+      },
+      "Calories": "140",
+      "Total Fat": "0",
+      "Carbohydrates": "37",
+      "Protein": "0",
+      "Sodium": "30"
+    },
+    {
+      "Name": {
+        "text": "Steak, Egg & Cheese Bagel",
+        "href": "javascript:void(0);"
+      },
+      "Calories": "670",
+      "Total Fat": "35",
+      "Carbohydrates": "56",
+      "Protein": "33",
+      "Sodium": "1510"
+    },
+    {
+      "Name": {
+        "text": "Steak, Egg & Cheese Biscuit",
+        "href": "javascript:void(0);"
+      },
+      "Calories": "540",
+      "Total Fat": "32",
+      "Carbohydrates": "38",
+      "Protein": "25",
+      "Sodium": "1470"
+    },
+    {
+      "Name": {
+        "text": "Steak, Egg & Cheese McMuffin",
+        "href": "javascript:void(0);"
+      },
+      "Calories": "430",
+      "Total Fat": "23",
+      "Carbohydrates": "31",
+      "Protein": "26",
+      "Sodium": "960"
+    },
+    {
+      "Name": {
+        "text": "Strawberry & Crème Pie",
+        "href": "javascript:void(0);"
+      },
+      "Calories": "310",
+      "Total Fat": "17",
+      "Carbohydrates": "36",
+      "Protein": "4",
+      "Sodium": "180"
+    },
+    {
+      "Name": {
+        "text": "Strawberry Sundae",
+        "href": "javascript:void(0);"
+      },
+      "Calories": "280",
+      "Total Fat": "6",
+      "Carbohydrates": "49",
+      "Protein": "6",
+      "Sodium": "85"
+    },
+    {
+      "Name": {
+        "text": "Sweet Tea",
+        "href": "javascript:void(0);"
+      },
+      "Calories": "160",
+      "Total Fat": "0",
+      "Carbohydrates": "40",
+      "Protein": "0",
+      "Sodium": "10"
+    },
+    {
+      "Name": {
+        "text": "Vanilla Cone",
+        "href": "javascript:void(0);"
+      },
+      "Calories": "170",
+      "Total Fat": "4.5",
+      "Carbohydrates": "27",
+      "Protein": "5",
+      "Sodium": "70"
+    },
+    {
+      "Name": {
+        "text": "World Famous Fries",
+        "href": "javascript:void(0);"
+      },
+      "Calories": "230",
+      "Total Fat": "11",
+      "Carbohydrates": "30",
+      "Protein": "2",
+      "Sodium": "130"
+    },
+    {
+      "Name": {
+        "text": "Yoplait Go-GURT Strawberry Yogurt",
+        "href": "javascript:void(0);"
+      },
+      "Calories": "50",
+      "Total Fat": "0.5",
+      "Carbohydrates": "9",
+      "Protein": "2",
+      "Sodium": "35"
+    }
+  ]
+}
